@@ -1,9 +1,3 @@
-# Laporan Audit Kode - Konversi Suhu
-
-## Link GitHub
-
-https://github.com/username/konversi-suhu
-
 ## Deskripsi Aplikasi
 
 Aplikasi Python sederhana untuk konversi suhu dari Celsius ke Fahrenheit dan Fahrenheit ke Celsius.
